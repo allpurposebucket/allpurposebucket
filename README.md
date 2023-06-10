@@ -1,4 +1,15 @@
-### Hi there 👋
+# Yoooo
+
+#### Welcome, novice software developer with an emphasis on Cybersecurity.
+
+## Languages
+- Python
+- C
+- C#
+- Go
+- Javascript
+- PHP
+
 
 ![](https://giffiles.alphacoders.com/207/207964.gif)
 
